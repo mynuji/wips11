@@ -1,0 +1,130 @@
+{
+  "ALLOW": [
+    {
+      "CHECKSUM": "85415ddc58582b1a9dd7f06bef4b718a5f1970aa", 
+      "DEVICE": "11:11:11:11:11:11", 
+      "EXP_DATE": "9999-12-31", 
+      "ID": 2, 
+      "MAC": "90:9f:33:d3:89:18", 
+      "SSID": "NUJI_5G"
+    }, 
+    {
+      "CHECKSUM": "3931c53f84144b518bdeb565a3b4f5e7f0e7c0bc", 
+      "DEVICE": "22:22:22:22:22:22", 
+      "EXP_DATE": "9999-12-31", 
+      "ID": 2, 
+      "MAC": "90:9f:33:d3:89:18", 
+      "SSID": "NUJI_5G"
+    }, 
+    {
+      "CHECKSUM": "4451eaf490dc2d547cef1f1d673dd94dff65f3fa", 
+      "DEVICE": "aa:bb:cc:dd:ee:ff", 
+      "EXP_DATE": "9999-12-31", 
+      "ID": 2, 
+      "MAC": "90:9f:33:d3:89:18", 
+      "SSID": "NUJI_5G"
+    }, 
+    {
+      "CHECKSUM": "ecbbcdcab33bb71c7bba26f4ed34a2a34ac7614c", 
+      "DEVICE": "11:22:33:44:55:66", 
+      "EXP_DATE": "9999-12-31", 
+      "ID": 3, 
+      "MAC": "0a:5d:dd:ec:fc:53", 
+      "SSID": ""
+    }, 
+    {
+      "CHECKSUM": "e44fffe079208aa04ea8c7d1ca90c51f22084415", 
+      "DEVICE": null, 
+      "EXP_DATE": null, 
+      "ID": 4, 
+      "MAC": "00:08:5b:7c:b2:38", 
+      "SSID": ""
+    }, 
+    {
+      "CHECKSUM": "f4317692b6600f6d1bb2e9e02ac93cfda9d9cd47", 
+      "DEVICE": null, 
+      "EXP_DATE": null, 
+      "ID": 5, 
+      "MAC": "00:08:5b:7c:b2:39", 
+      "SSID": "U+NetB23B"
+    }, 
+    {
+      "CHECKSUM": "2d17fbb86a08a63fa5195f2020be30dc774e1b49", 
+      "DEVICE": null, 
+      "EXP_DATE": null, 
+      "ID": 6, 
+      "MAC": "88:36:6c:c1:76:22", 
+      "SSID": "hua"
+    }, 
+    {
+      "CHECKSUM": "54af652b87dfed22c68639a978faf7c66b52931b", 
+      "DEVICE": "12:34:56:78:90:ab", 
+      "EXP_DATE": "9999-12-31", 
+      "ID": 7, 
+      "MAC": "32:cd:a7:36:07:63", 
+      "SSID": "DIRECT-yyC470 Series"
+    }, 
+    {
+      "CHECKSUM": "898ee0ed3029799dd43d32ff84ddf360724e3ea9", 
+      "DEVICE": null, 
+      "EXP_DATE": null, 
+      "ID": 9, 
+      "MAC": "88:36:6c:c1:76:20", 
+      "SSID": "hua5G"
+    }, 
+    {
+      "CHECKSUM": "9b2803cf00ccd1843259e01eb2942943049dc11e", 
+      "DEVICE": null, 
+      "EXP_DATE": null, 
+      "ID": 12, 
+      "MAC": "00:07:89:8a:b4:01", 
+      "SSID": "KT_GiGA_2G_Wave2_B3FE"
+    }, 
+    {
+      "CHECKSUM": "7de49e3e220319c3effeb2d58feab50577e2c79e", 
+      "DEVICE": null, 
+      "EXP_DATE": null, 
+      "ID": 13, 
+      "MAC": "08:5d:dd:ec:fc:53", 
+      "SSID": "SK_WiFiGIGAFC50"
+    }, 
+    {
+      "CHECKSUM": "ab77bd2a9b1512e3751576a61c4e6c0dc82207e9", 
+      "DEVICE": null, 
+      "EXP_DATE": null, 
+      "ID": 15, 
+      "MAC": "08:5d:dd:a7:01:04", 
+      "SSID": "olleh_WiFi_0100"
+    }, 
+    {
+      "CHECKSUM": "e74fc1e48b8c17583d564b44bff9fcc8298977e7", 
+      "DEVICE": null, 
+      "EXP_DATE": null, 
+      "ID": 16, 
+      "MAC": "08:51:dk:df:dj:fk", 
+      "SSID": ""
+    }, 
+    {
+      "CHECKSUM": "d0a12034833912cbb3111e1cee8415c43bd9a7da", 
+      "DEVICE": "64:7b:ce:11:ab:68", 
+      "EXP_DATE": "2020-10-03", 
+      "ID": 17, 
+      "MAC": "90:9f:33:d3:89:1a", 
+      "SSID": "NUJI_2G"
+    }, 
+    {
+      "CHECKSUM": "0b9967269e5cf8aefc166f27b4122b15527cc42d", 
+      "DEVICE": "64:7b:ce:11:ab:68", 
+      "EXP_DATE": "2020-10-04", 
+      "ID": 17, 
+      "MAC": "90:9f:33:d3:89:1a", 
+      "SSID": "NUJI_2G"
+    }
+  ], 
+  "CHECKSUM": "6aba9a56aeeb28d5804799314f905dbf19075011", 
+  "CNT": 15, 
+  "DATE": "20201005", 
+  "INTERVAL": 60, 
+  "RUN": "ON", 
+  "VERSION": "1"
+}

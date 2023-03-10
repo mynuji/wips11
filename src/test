@@ -1,0 +1,27 @@
+{
+  "ALLOW": [
+    {
+      "AP": "90:9f:33:d3:89:18", 
+      "AP_ID": 2, 
+      "CHECKSUM": "4c050c029eeaa8e09da34cac0f12895edb206210", 
+      "DEVICE": "aa:bb:cc:dd:ee:ff", 
+      "EXP_DATE": "9999-12-31"
+    }, 
+    {
+      "AP": "90:9f:33:d3:89:18", 
+      "AP_ID": 2, 
+      "CHECKSUM": "860547e70af274cea77c67db7441f0bc921bb2d0", 
+      "DEVICE": "11:11:11:11:11:11", 
+      "EXP_DATE": "9999-12-31"
+    }, 
+    {
+      "AP": "90:9f:33:d3:89:18", 
+      "AP_ID": 2, 
+      "CHECKSUM": "cbc20b8e97bfdd2960725dd86a656310f0247ad0", 
+      "DEVICE": "22:22:22:22:22:22", 
+      "EXP_DATE": "9999-12-31"
+    }
+  ], 
+  "DATE": "20200927", 
+  "STATUS": 0
+}
